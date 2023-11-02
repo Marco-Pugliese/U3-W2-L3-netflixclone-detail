@@ -1,0 +1,29 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.my-bg {
+  background: linear-gradient(
+    to right,
+    black,
+    rgb(15, 15, 15),
+    rgb(15, 15, 15),
+    rgb(30, 30, 30)
+  ) !important;
+}
+#basic-navbar-nav a {
+  color: rgb(160, 160, 160);
+  font-size: 0.9em;
+  font-weight: 600;
+}
+#logo {
+  width: 120px;
+}
+.smaller {
+  font-size: 0.8em;
+}
+.extrasmall {
+  font-size: 0.7em;
+}
